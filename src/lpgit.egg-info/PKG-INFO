@@ -1,7 +1,8 @@
 Metadata-Version: 2.1
 Name: lpgit
-Version: 2.2.2
+Version: 2.2.8
 Summary: A package for LogicPlum projects
+Home-page: https://github.com/jithinj-lp/lpgit.git
 Author: LogicPlum
 Author-email: jithinj-lp@logicplum.com
 License: UNKNOWN
